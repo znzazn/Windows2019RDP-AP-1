@@ -15,3 +15,5 @@ Tạo VPS miễn phí cấu hình 2cpu-7gb Ram FREE với Github:
 - Chuyển qua Action > CI > Run workflow
 - Reload lại trang và ấn CI > build
 - Ấn mũi tên xuống ở Connect To Your RPD để lấy IP, User, Password.
+
+# Creator: https://github.com/ThuongHai
